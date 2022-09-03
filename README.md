@@ -5,19 +5,8 @@ Feel free to use this template and adjust it to your needs & linking.<br>
 
 💡 **The website design is inspired by [@divanov11](https://github.com/divanov11)** 💡 <br>
 Find his:
-- repository here: https://github.com/divanov11/Digital-Resume
+- repository here: https://github.com/Meet2147/Digi.git
 - YouTube video here: https://youtu.be/clwpf3VwCZQ
-
-## Live Demo
-👉 **https://resume.pythonandvba.com/**
-
-## Screenshots
-![Demo1](./assets/demo1.png?raw=true "Demo1")
-![Demo2](./assets/demo2.png?raw=true "Demo2")
-![Demo3](./assets/demo3.png?raw=true "Demo3")
-
-## Video Tutorial
-[![YouTube Video](https://img.youtube.com/vi/BXAeMICmUSQ/0.jpg)](https://youtu.be/BXAeMICmUSQ)
 
 
 ## Requirements
@@ -36,12 +25,9 @@ streamlit run app.py
 
 ## About Me
 - Sven from Coding Is Fun
-- YouTube: https://youtube.com/c/CodingIsFun
-- Website: https://pythonandvba.com
+- YouTube: https://www.youtube.com/channel/UCOoR4Ots08TrmlF3zfFRIVw
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X47Q0EG)
 
-## Feedback
-If you have any feedback, please reach out to me at contact@pythonandvba.com
-![Logo](https://www.pythonandvba.com/banner-img)
-# Digi
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)]()
+
+
